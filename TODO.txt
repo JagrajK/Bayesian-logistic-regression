@@ -1,0 +1,4 @@
+Explain the model using Latex,
+Justify decisions,
+Tidy up code by adding docstrings and comments,
+Evaluate the performance of the models and pros and cons of each approach
